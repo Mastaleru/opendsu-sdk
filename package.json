@@ -35,6 +35,6 @@
         "common-shakeify": "^1.1.1"
     },
     "dependencies": {
-        "octopus": "git+http://git@github.com/opendsu/octopus.git"
+        "octopus": "git+http://github.com/opendsu/octopus.git#d72dfa6990b6804d2d07721eec2f022a4a31d7ed"
     }
 }
